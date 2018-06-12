@@ -12,7 +12,7 @@ class GraphCenter{
             Graph.Edge ak = G.E[k];
             Log.dLine(String.Format("Processing edge #{0}: {1}->{2}={3}", k, ak.a, ak.b, ak.d));
             //s(yk) =  max[vi * d(yk, xi)];
-            int curMax = INF, curMaxI = -1, curMaxEps = 0;
+            int curMin = INF, curMinI = -1, curMinEps = 0;
             for(int eps = 0; eps <= ak.d; ++eps){
                 int max = -1, maxi = -1;
                 for(int i = 0; i < G.N; ++i){
@@ -27,21 +27,21 @@ class GraphCenter{
                     }
                 }
                 Log.dLine("-----------");
-                if(max < curMax){
-                    curMax = max;
-                    curMaxI = maxi;
-                    curMaxEps = eps;
+                if(max < curMin){
+                    curMin = max;
+                    curMinI = maxi;
+                    curMinEps = eps;
                 }
             }
             Log.dLine(
-                String.Format("Edge processed. curMax={0} at i={1}, eps={2}", curMax, curMaxI, curMaxEps)  
+                String.Format("Edge processed. curMax={0} at i={1}, eps={2}", curMin, curMinI, curMinEps)  
             );
             Log.dLine("=================");
-            if(curMax < totalMin){
-                totalMin = curMax; 
-                totalMinI = curMaxI;
+            if(curMin < totalMin){
+                totalMin = curMin; 
+                totalMinI = curMinI;
                 totalMinK = k;
-                totalMinEps = curMaxEps;
+                totalMinEps = curMinEps;
             }
         }
         return (G.E[totalMinK], totalMinEps, totalMin);
