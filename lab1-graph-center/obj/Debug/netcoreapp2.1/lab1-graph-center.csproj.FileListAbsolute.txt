@@ -1,0 +1,11 @@
+/home/santoni7/Documents/cs-labs/lab1-graph-center/bin/Debug/netcoreapp2.1/lab1-graph-center.deps.json
+/home/santoni7/Documents/cs-labs/lab1-graph-center/bin/Debug/netcoreapp2.1/lab1-graph-center.runtimeconfig.json
+/home/santoni7/Documents/cs-labs/lab1-graph-center/bin/Debug/netcoreapp2.1/lab1-graph-center.runtimeconfig.dev.json
+/home/santoni7/Documents/cs-labs/lab1-graph-center/bin/Debug/netcoreapp2.1/lab1-graph-center.dll
+/home/santoni7/Documents/cs-labs/lab1-graph-center/bin/Debug/netcoreapp2.1/lab1-graph-center.pdb
+/home/santoni7/Documents/cs-labs/lab1-graph-center/obj/Debug/netcoreapp2.1/lab1-graph-center.csprojAssemblyReference.cache
+/home/santoni7/Documents/cs-labs/lab1-graph-center/obj/Debug/netcoreapp2.1/lab1-graph-center.csproj.CoreCompileInputs.cache
+/home/santoni7/Documents/cs-labs/lab1-graph-center/obj/Debug/netcoreapp2.1/lab1-graph-center.AssemblyInfoInputs.cache
+/home/santoni7/Documents/cs-labs/lab1-graph-center/obj/Debug/netcoreapp2.1/lab1-graph-center.AssemblyInfo.cs
+/home/santoni7/Documents/cs-labs/lab1-graph-center/obj/Debug/netcoreapp2.1/lab1-graph-center.dll
+/home/santoni7/Documents/cs-labs/lab1-graph-center/obj/Debug/netcoreapp2.1/lab1-graph-center.pdb
