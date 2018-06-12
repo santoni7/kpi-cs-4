@@ -1,0 +1,11 @@
+/home/santoni7/Documents/cs-labs/lab2-person-hierarchy/bin/Debug/netcoreapp2.1/lab2-person-hierarchy.deps.json
+/home/santoni7/Documents/cs-labs/lab2-person-hierarchy/bin/Debug/netcoreapp2.1/lab2-person-hierarchy.runtimeconfig.json
+/home/santoni7/Documents/cs-labs/lab2-person-hierarchy/bin/Debug/netcoreapp2.1/lab2-person-hierarchy.runtimeconfig.dev.json
+/home/santoni7/Documents/cs-labs/lab2-person-hierarchy/bin/Debug/netcoreapp2.1/lab2-person-hierarchy.dll
+/home/santoni7/Documents/cs-labs/lab2-person-hierarchy/bin/Debug/netcoreapp2.1/lab2-person-hierarchy.pdb
+/home/santoni7/Documents/cs-labs/lab2-person-hierarchy/obj/Debug/netcoreapp2.1/lab2-person-hierarchy.csprojAssemblyReference.cache
+/home/santoni7/Documents/cs-labs/lab2-person-hierarchy/obj/Debug/netcoreapp2.1/lab2-person-hierarchy.csproj.CoreCompileInputs.cache
+/home/santoni7/Documents/cs-labs/lab2-person-hierarchy/obj/Debug/netcoreapp2.1/lab2-person-hierarchy.AssemblyInfoInputs.cache
+/home/santoni7/Documents/cs-labs/lab2-person-hierarchy/obj/Debug/netcoreapp2.1/lab2-person-hierarchy.AssemblyInfo.cs
+/home/santoni7/Documents/cs-labs/lab2-person-hierarchy/obj/Debug/netcoreapp2.1/lab2-person-hierarchy.dll
+/home/santoni7/Documents/cs-labs/lab2-person-hierarchy/obj/Debug/netcoreapp2.1/lab2-person-hierarchy.pdb
